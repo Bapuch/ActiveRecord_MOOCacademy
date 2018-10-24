@@ -1,3 +1,5 @@
+# This class is linked to the lessons table
 class Lesson < ApplicationRecord
-    belongs_to :cour
+  # 1 cour - N lessons
+  belongs_to :cour
 end

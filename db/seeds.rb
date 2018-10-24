@@ -1,5 +1,4 @@
 require 'faker'
-I18n.reload!
 # Create 10 cours with 2 to 8 lessons each
 10.times do
   cour = Cour.create!(title: Faker::Community.characters, description: Faker::FamilyGuy.quote)

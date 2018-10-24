@@ -1,24 +1,21 @@
-# README
+## Exercice du Mercredi 24 Octobre sur ActiveRecord - MOOCacademy :sunny:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Greetings
 
-Things you may want to cover:
+<p>Dear moussaillon,</p>
+<p>Attaché à ce repo se trouve toutes les données pour MOOCacademy</strong></p>
+    
+### Travail réalisé par :
+Noms | Pseudo Slack
+------------ | -------------
+Maëlle Ngachili|@Maëlle
 
-* Ruby version
 
-* System dependencies
+### Tables & Models
+<ul>
+  <li>cours / Cour</li>
+  <li>lessons / Lesson</li>
+</ul>
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Bonne correction ! :poop:
